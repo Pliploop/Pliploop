@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Julien, a music aficionado with a vivid interest in all things tech! I'm specialized in data science, machine learning, NLP, and music information retrieval. I'm always open to learning new things and am currently polishing up my skills in a few domains of interest : front-end development, web3, MLOps, and Python-based back-end development!<br>I love all things AI & Music and am particularly passionate about generative music models as well as automatic tagging and representation learning. Hit me up!
+Hey! I'm Julien, a music aficionado with a vivid interest in all things tech! I'm specialized in data science, machine learning, NLP, and music information retrieval. I'm always open to learning new things and am currently polishing up my skills in a few domains of interest : front-end development, web3, MLOps, and Python-based back-end development!<br/>I love all things AI & Music and am particularly passionate about generative music models as well as automatic tagging and representation learning. Hit me up!
 
 :construction-worker: I'm currently working on :
   :musical_keyboard: ML & Music projects :
