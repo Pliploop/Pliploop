@@ -1,19 +1,21 @@
 # 💫 About Me:
-Hey! I'm Julien, a music aficionado with a vivid interest in all things tech! I'm specialized in data science, machine learning, NLP, and music information retrieval. I'm always open to learning new things and am currently polishing up my skills in a few domains of interest : front-end development, web3, MLOps, and Python-based back-end development!<br/>I love all things AI & Music and am particularly passionate about generative music models as well as automatic tagging and representation learning. Hit me up!
+Hey! I'm Julien, a music aficionado with a vivid interest in all things tech! I'm specialized in data science, machine learning, NLP, and music information retrieval. I'm always open to learning new things and am currently polishing up my skills in a few domains of interest : front-end development, web3, MLOps, and Python-based back-end development!<br/>
+I love all things AI & Music and am particularly passionate about generative music models as well as automatic tagging and representation learning. Hit me up!<br/>
+<br/>
 
-:construction-worker: I'm currently working on :
-  :musical_keyboard: ML & Music projects :
-    - Audio visualizer for music tagging using three js, react & Tensorflow 
-    - Drum sample classifier, visualizer & generator (diffusion & GANs)
-  :book: Research projects in MIR:
-    - Vocal registrer segmentation
-    - Video classification for automatic labeling
-:open_hands: I'm looking to collaborate on open source projects & music-related projects!
-:eyeglasses: I'm looking for help with web3 development and fullstack web!
-:palm_tree: I'm learning JavaScript, C++ and web3 technologies
-:question: Ask me about machine learning and MIR/NLP!
-📫 How to reach me: Hit me up on Linkedin or at jul.guinot@gmail.com
-😄 Pronouns: He/Him
+:construction-worker: I'm currently working on :<br/>
+  :musical_keyboard: ML & Music projects :<br/>
+    - Audio visualizer for music tagging using three js, react & Tensorflow <br/>
+    - Drum sample classifier, visualizer & generator (diffusion & GANs)<br/>
+  :book: Research projects in MIR:<br/>
+    - Vocal registrer segmentation<br/>
+    - Video classification for automatic labeling<br/><br/>
+:open_hands: I'm looking to collaborate on open source proj<br/>ects & music-related projects!<br/>
+:eyeglasses: I'm looking for help with web3 development and fullstack web!<br/>
+:palm_tree: I'm learning JavaScript, C++ and web3 technologies<br/>
+:question: Ask me about machine learning and MIR/NLP!<br/>
+📫 How to reach me: Hit me up on Linkedin or at jul.guinot@gmail.com<br/>
+😄 Pronouns: He/Him<br/>
 
 
 ## 🌐 Socials:
