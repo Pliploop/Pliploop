@@ -33,4 +33,5 @@ I love all things AI & Music and am particularly passionate about generative mus
 <!---username=Pliploop&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 
 
-![](https://visitcount.itsvg.in/api?id=Pliploop&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pliploop&icon=5&color=6)](https://visitcount.itsvg.in)
+
