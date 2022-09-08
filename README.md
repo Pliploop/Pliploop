@@ -10,7 +10,7 @@ I love all things AI & Music and am particularly passionate about generative mus
   :book: Research projects in MIR:<br/>
     - Vocal registrer segmentation<br/>
     - Video classification for automatic labeling<br/><br/>
-:open_hands: I'm looking to collaborate on open source proj<br/>ects & music-related projects!<br/>
+:open_hands: I'm looking to collaborate on open source projects & music-related projects!<br/>
 :eyeglasses: I'm looking for help with web3 development and fullstack web!<br/>
 :palm_tree: I'm learning JavaScript, C++ and web3 technologies<br/>
 :question: Ask me about machine learning and MIR/NLP!<br/>
