@@ -3,7 +3,7 @@ Hey! I'm Julien, a music aficionado with a vivid interest in all things tech! I'
 I love all things AI & Music and am particularly passionate about generative music models as well as automatic tagging and representation learning. Hit me up!<br/>
 <br/>
 
-:construction-worker: I'm currently working on :<br/>
+:construction_worker: I'm currently working on :<br/>
   :musical_keyboard: ML & Music projects :<br/>
     - Audio visualizer for music tagging using three js, react & Tensorflow <br/>
     - Drum sample classifier, visualizer & generator (diffusion & GANs)<br/>
@@ -28,8 +28,5 @@ I love all things AI & Music and am particularly passionate about generative mus
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pliploop&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pliploop&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=Pliploop&icon=5&color=6)](https://visitcount.itsvg.in)
